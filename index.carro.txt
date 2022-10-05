@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<htl lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>Hyper Cars</title>
+
+	</head>
+	<body>
+		<h1 style="text-align: center">Hyper Cars</h1>
+
+		<P style="text-align: center">Localizada em Curitiba a <strong>Hyper Cars</strong> foi fundada 2015 e trazemos para o mercado automotivo as mais detalhadas informações de veiculos</p>
+
+		<p style="font-size:20px; text-align: center;"><em>Nosso proposito é: <strong>Aumentar a qualidade de vida do cliente</strong></p>
+
+		<p style="text-align: center">Oferecemos profissionais experientes e atentos ao mundo automobilisticos. Garantindo qualidade, agilidade e satisfação dos nossos clientes<p>
+	</body>
+</html>
